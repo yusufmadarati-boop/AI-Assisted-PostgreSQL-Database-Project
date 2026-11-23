@@ -235,7 +235,13 @@ Artificial Intelligence played a vital role throughout this project:
 3. **Plan Deconstruction:** Explaining Postgres execution plan nodes (`Bitmap Heap Scan`, `Recheck Cond`, buffer caching).
 4. **Human Verification:** Engineering oversight corrected cascade delete policies on product items to `RESTRICT` and formulated composite indexing over single-column indexes.
 
-> 📄 For the complete prompt logs, AI outputs, and engineering reflections, see [AI_USAGE_DOCUMENTATION.md](file:///C:/Users/hp/.gemini/antigravity/scratch/AI-Assisted-PostgreSQL-Database-Project/AI_USAGE_DOCUMENTATION.md).
+> 📄 For the complete prompt logs, AI outputs, and engineering reflections, see [AI_USAGE_DOCUMENTATION.md](AI_USAGE_DOCUMENTATION.md) and [PROJECT_REPORT.md](PROJECT_REPORT.md) (Arabic & English Full Report).
+> ⚡ For single-click full execution in pgAdmin or psql, run [all_in_one_project.sql](all_in_one_project.sql).
+
+---
+
+## 📝 Assignment Submission
+- **Google Form Submission Link**: [https://forms.gle/SS45sZLZFMsg37z68](https://forms.gle/SS45sZLZFMsg37z68)
 
 ---
 

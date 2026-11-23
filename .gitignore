@@ -1,14 +1,12 @@
-# Operating System Files
+# System and OS Files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Editor & IDE directories
+# Environment and Credentials
+.env
+*.log
+
+# Editor Directories
 .vscode/
 .idea/
-*.swp
-*~
-
-# Temporary & Log files
-*.log
-*.tmp
